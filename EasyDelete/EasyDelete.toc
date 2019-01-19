@@ -1,0 +1,11 @@
+## Interface: 70300
+## Title: EasyDelete
+## Author: MindScape
+## Version: 1.0.1
+## Notes: Press a configurable button (Delete) while holding an item in your mouse to delete it.
+## SavedVariablesPerCharacter: deleteKey, sendChatMessage
+## DefaultState: Enabled
+## X-Date: July 27, 2017
+##
+
+EasyDelete.lua
