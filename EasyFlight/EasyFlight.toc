@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: EasyFlight
+## Author: Chase
+## Version: 1.0.0
+
+EasyFlight.lua

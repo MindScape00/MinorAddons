@@ -1,0 +1,25 @@
+v3.0.1 (July 29, 2018)
+	- Fixed the Addon actually working (Updated .toc, oops)
+	- Added Debug to see where stuff can go wrong if it does.
+	- Fixed only being able to use ".go", now any variant of ".gobject" works.
+
+----------------------------------------
+	
+v3.0.0 (July 25, 2018)
+	- Expanded to include switching for .go move (allows '.go move 5 forward').
+	- Expanded to include switching for .go copy (allows '.go copy 5 forward').
+	- Returns use of command ".go look" as a second version of ".look ob", similar to how it worked in previous versions of Enteleai and other servers.
+	- Renamed to CommandSwitch since it does more than GPS now.
+
+----------------------------------------
+
+v2.0.0 (July 24, 2018) (UNRELEASED)
+	- Expanded to include switching for .go move (allows '.go move 5 forward').
+
+----------------------------------------
+
+V1.0.0 (Sep. 7, 2017)
+	- Made it from old ExtendGPS code (Reworked it a lot - still, thanks to Deramyr for ExtendGPS and his genius, if not hard to follow Lua skills)
+
+----------------------------------------
+

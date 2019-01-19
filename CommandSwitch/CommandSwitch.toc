@@ -1,0 +1,12 @@
+## Interface: 70300
+## Title: !CommandSwitch
+## Author: MindScape
+## Version: 3.0.1
+## Notes: Allows multiple versions of commands similar to old formats (".go move/copy #distance $direction", ".gps #distance $direction", ".go look").
+## DefaultState: Enabled
+## X-Date: July 29, 2018
+## X-Credits: Deramyr, MindScape
+## X-MostRecentChanges: See Changelog.txt
+##
+
+CommandSwitch.lua
