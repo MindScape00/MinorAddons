@@ -1,0 +1,6 @@
+## Interface: 80300
+## Title: Lua Errors to Chat
+## Notes: Directs Lua errors to the chat box also
+## Author: MindScape
+## Version: 1
+LuaErrorsToChat.lua
