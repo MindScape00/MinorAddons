@@ -1,0 +1,11 @@
+## Interface: 80300
+## Title: AutoSpawnForgedNPC
+## Author: MindScape
+## Version: 1.0.0
+## Notes: 
+## DefaultState: Enabled
+## SavedVariables: ASFNOpts
+## X-Date: July 4, 2021
+## X-Credits: MindScape
+
+AutoSpawnForgedNPC.lua
