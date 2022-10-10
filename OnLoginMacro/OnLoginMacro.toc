@@ -1,0 +1,11 @@
+## Interface: 80300
+## Title: OnLoginMacro
+## Author: MindScape
+## Version: 1.0.0
+## Notes: Automatically runs any macro named "OnLogin" when you log-in. 
+## Dependencies: Epsilon
+## DefaultState: Enabled
+## X-Date: April 3, 2021
+## X-Credits: MindScape
+
+OnLoginMacro.lua
