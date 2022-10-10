@@ -1,0 +1,11 @@
+## Interface: 80300
+## Title: Reapply Animation
+## Author: MindScape
+## Version: 1.0.0
+## Notes: Auto Reapply Anim after chat message
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: ReapplyAnimSettings
+## X-Date: April 23, 2021
+## X-Credits: MindScape
+
+ReapplyAnim.lua
