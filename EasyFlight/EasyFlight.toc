@@ -1,6 +1,9 @@
-## Interface: 70300
+## Interface: 80300
 ## Title: EasyFlight
-## Author: Chase
-## Version: 1.0.0
+## Author: Chase (Maintained by MindScape)
+## Version: 1.0.1
+## Notes: Enables 'minecraft' style flight toggling by double pressing spacebar.
+## X-Changelog: Fixed for 8.3
+## SavedVariables: EasyFlightOptions
 
 EasyFlight.lua
