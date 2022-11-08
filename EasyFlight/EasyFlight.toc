@@ -1,9 +1,9 @@
 ## Interface: 80300
 ## Title: EasyFlight
 ## Author: Chase (Maintained by MindScape)
-## Version: 1.0.1
-## Notes: Enables 'minecraft' style flight toggling by double pressing spacebar.
-## X-Changelog: Fixed for 8.3
+## Version: 1.1
+## Notes: Enables 'Creative Mode' style flight toggle by double or triple jumping!
+## X-Changelog: Fixed for 8.3 & Added Options + Land Delay
 ## SavedVariables: EasyFlightOptions
 
-EasyFlight.lua
+EasyFlight.xml
