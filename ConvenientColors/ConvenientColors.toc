@@ -1,0 +1,13 @@
+## Interface: 40000
+## Title: |cff00E5EEConvenientColors
+## Author: MindScape
+## Version: Build v1.0
+## Notes: Allows Easy Coloring of chat messages using a loop-hole workaround of the WoW / Enteleaie Anti-Color Protection.
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: CCColor
+## X-Date: June 27, 2015
+## X-Website: 
+## X-Credits: Everon and Chase, for exposing this vulnerability. Divinity-X, for being there.
+## X-MostRecentChanges: Completed and fully working. Unreleased due to rules. Will most likely work on a large number of servers.
+
+ConvenientColors.lua
